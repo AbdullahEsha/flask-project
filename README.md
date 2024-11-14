@@ -4,8 +4,8 @@ A SPA Application with a flask backend and Postgres as Database (with psycopg2)
 
 ### Requirements
 
-* Python 3
-* PostgreSQL
+- Python 3
+- PostgreSQL
 
 ### environment variables
 
@@ -22,7 +22,7 @@ DB_PASSWORD = mysecretpassword
 ### Installation
 
 ```
-git clone https://github.com/FaztWeb/flask-postgres-crud-spa
+git clone https://github.com/AbdullahEsha/flask-project.git
 
 cd flask-postgres-crud-spa
 
