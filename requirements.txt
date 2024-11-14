@@ -16,3 +16,5 @@ toml
 Werkzeug
 zipp
 cryptography
+flask-migrate
+SQLAlchemy
